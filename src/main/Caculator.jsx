@@ -5,7 +5,7 @@ export default class Calculator extends Componet {
     reder () {
         return (
             <div>   
-                
+                <h1></h1>
             </div>
         )
     }
