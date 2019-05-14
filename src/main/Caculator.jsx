@@ -1,11 +1,10 @@
-import React , { Componet } from 'react';
-import './Calculator.css'
+import React , { Component } from 'react';
+import './Calculator.css' 
 
-export default class Calculator extends Componet {
-    reder () {
+export default class Calculator extends Component {
+    render () {
         return (
-            <div>   
-                <h1></h1>
+            <div className="calculator">   
             </div>
         )
     }
